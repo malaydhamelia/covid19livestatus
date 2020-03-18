@@ -1,0 +1,260 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.5183145,15.8831148 ]
+    },
+    "properties": {
+    "*S. No.*":1,
+    "*Name of State / UT*":"Andhra Pradesh",
+    "*Total Confirmed cases (Indian National)*":1,
+    "*Total Confirmed cases ( Foreign National )*":0,
+    "*Cured/Discharged*":0,
+    "*Death*":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.9512648,28.6923329 ]
+    },
+    "properties": {
+    "*S. No.*":2,
+    "*Name of State / UT*":"Delhi",
+    "*Total Confirmed cases (Indian National)*":9,
+    "*Total Confirmed cases ( Foreign National )*":1,
+    "*Cured/Discharged*":2,
+    "*Death*":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.9053054,29.2782486 ]
+    },
+    "properties": {
+    "*S. No.*":3,
+    "*Name of State / UT*":"Haryana",
+    "*Total Confirmed cases (Indian National)*":3,
+    "*Total Confirmed cases ( Foreign National )*":14,
+    "*Cured/Discharged*":0,
+    "*Death*":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.0745379,15.0062607 ]
+    },
+    "properties": {
+    "*S. No.*":4,
+    "*Name of State / UT*":"Karnataka",
+    "*Total Confirmed cases (Indian National)*":11,
+    "*Total Confirmed cases ( Foreign National )*":0,
+    "*Cured/Discharged*":0,
+    "*Death*":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.8838774,10.5327247 ]
+    },
+    "properties": {
+    "*S. No.*":5,
+    "*Name of State / UT*":"Kerala",
+    "*Total Confirmed cases (Indian National)*":25,
+    "*Total Confirmed cases ( Foreign National )*":2,
+    "*Cured/Discharged*":3,
+    "*Death*":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.5309252,18.8020093 ]
+    },
+    "properties": {
+    "*S. No.*":6,
+    "*Name of State / UT*":"Maharashtra",
+    "*Total Confirmed cases (Indian National)*":39,
+    "*Total Confirmed cases ( Foreign National )*":3,
+    "*Cured/Discharged*":0,
+    "*Death*":"1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 82.1917343,20.1765395 ]
+    },
+    "properties": {
+    "*S. No.*":7,
+    "*Name of State / UT*":"Odisha",
+    "*Total Confirmed cases (Indian National)*":1,
+    "*Total Confirmed cases ( Foreign National )*":0,
+    "*Cured/Discharged*":0,
+    "*Death*":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.2799586,31.013429 ]
+    },
+    "properties": {
+    "*S. No.*":8,
+    "*Name of State / UT*":"Pondicherry",
+    "*Total Confirmed cases (Indian National)*":1,
+    "*Total Confirmed cases ( Foreign National )*":0,
+    "*Cured/Discharged*":0,
+    "*Death*":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 71.6300529,26.6155875 ]
+    },
+    "properties": {
+    "*S. No.*":9,
+    "*Name of State / UT*":"Punjab",
+    "*Total Confirmed cases (Indian National)*":1,
+    "*Total Confirmed cases ( Foreign National )*":0,
+    "*Cured/Discharged*":0,
+    "*Death*":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 76.0442005,10.8064838 ]
+    },
+    "properties": {
+    "*S. No.*":10,
+    "*Name of State / UT*":"Rajasthan",
+    "*Total Confirmed cases (Indian National)*":2,
+    "*Total Confirmed cases ( Foreign National )*":2,
+    "*Cured/Discharged*":3,
+    "*Death*":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.0327164,17.8641721 ]
+    },
+    "properties": {
+    "*S. No.*":11,
+    "*Name of State / UT*":"Tamil Nadu",
+    "*Total Confirmed cases (Indian National)*":1,
+    "*Total Confirmed cases ( Foreign National )*":0,
+    "*Cured/Discharged*":0,
+    "*Death*":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 74.7899239,32.7147992 ]
+    },
+    "properties": {
+    "*S. No.*":12,
+    "*Name of State / UT*":"Telengana",
+    "*Total Confirmed cases (Indian National)*":4,
+    "*Total Confirmed cases ( Foreign National )*":2,
+    "*Cured/Discharged*":1,
+    "*Death*":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 71.8655027,26.8470075 ]
+    },
+    "properties": {
+    "*S. No.*":13,
+    "*Name of State / UT*":"Union Territory of Jammu and Kashmir",
+    "*Total Confirmed cases (Indian National)*":3,
+    "*Total Confirmed cases ( Foreign National )*":0,
+    "*Cured/Discharged*":0,
+    "*Death*":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.639559,27.1282944 ]
+    },
+    "properties": {
+    "*S. No.*":14,
+    "*Name of State / UT*":"Union Territory of Ladakh",
+    "*Total Confirmed cases (Indian National)*":8,
+    "*Total Confirmed cases ( Foreign National )*":0,
+    "*Cured/Discharged*":0,
+    "*Death*":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 78.1904122,30.0799897 ]
+    },
+    "properties": {
+    "*S. No.*":15,
+    "*Name of State / UT*":"Uttar Pradesh",
+    "*Total Confirmed cases (Indian National)*":15,
+    "*Total Confirmed cases ( Foreign National )*":1,
+    "*Cured/Discharged*":5,
+    "*Death*":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.0669246,30.0680585 ]
+    },
+    "properties": {
+    "*S. No.*":16,
+    "*Name of State / UT*":"Uttarakhand",
+    "*Total Confirmed cases (Indian National)*":1,
+    "*Total Confirmed cases ( Foreign National )*":0,
+    "*Cured/Discharged*":0,
+    "*Death*":"0"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 83.3517764,24.316468 ]
+    },
+    "properties": {
+    "*S. No.*":17,
+    "*Name of State / UT*":"West Bengal",
+    "*Total Confirmed cases (Indian National)*":1,
+    "*Total Confirmed cases ( Foreign National )*":0,
+    "*Cured/Discharged*":0,
+    "*Death*":"0"
+    }
+  }
+]
+}
